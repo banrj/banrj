@@ -1,4 +1,4 @@
-﻿# ✌️ Welcome! [Visitors](https://visitor-badge.glitch.me/badge?page_id=banrj) 
+# ✌️ Welcome! [Visitors](https://visitor-badge.glitch.me/badge?page_id=banrj) 
 
 I want to make people's lives better, through programming 💻
 
