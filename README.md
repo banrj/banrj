@@ -5,9 +5,7 @@ I want to make people's lives better, through programming 💻
 Proficient: Python, SQL
 ## 😊 About me 
 
-✌️ My name is Daniil, I am 18 years old. I am a beginner python developer 😇
-
-Now I am looking for my first job in IT, so I will be glad for any feedback to improve my skills (Thanks🙏)
+✌️ My name is Daniil, I am 20 years old. I am a python developer 😇
 
 ### My Hobies
 * Reading 📚
